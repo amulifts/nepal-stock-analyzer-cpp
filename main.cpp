@@ -7,7 +7,7 @@
     C++ Version: C++17
 
     Usage:
-        - inlude the json.hpp file
+        - include the json.hpp file from the nlohmann/json repository
         - g++ main.cpp -o main.exe; start-process main.exe
 
     Description: A simple implementation of a stock analyzer program that uses a linked list to store the stock data and a JSON file to store the client data.
